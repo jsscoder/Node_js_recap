@@ -1,0 +1,12 @@
+windowss>>>>>>>>>>>>>>>linux(fuck off){
+  try{
+  log(maa chuda)
+  if(!maa chuda){
+    log(no player)
+  }else{
+    log(gannd mara)
+  }
+  }catch(Exception as e){
+log(error a a gaya mc battlefield 6 server not responding.............)
+  }
+}
