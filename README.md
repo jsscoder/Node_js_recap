@@ -35,18 +35,4 @@ I’ll upload a **cleaned-up TypeScript version** with:
 - Type safety  
 … and maybe some extra goodies 😉
 
----
 
-## 📦 How to run
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/nodejs-from-scratch.git
-
-# Go into the folder
-cd nodejs-from-scratch
-
-# Install dependencies (if any)
-npm install
-
-# Run the file
-node index.js
