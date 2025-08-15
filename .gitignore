@@ -39,3 +39,8 @@ temp/
 .yarn-cache/
 .pnpm-store/
 .gitignore
+.md
+
+>> git remote add origin git@github.com:jsscoder/Node_js_recap.git      
+>> git push -u origin main
+
